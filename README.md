@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VinsintQ
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning MERN stack
+- 🌱 I’m currently learning Java
 
 
 <!---
